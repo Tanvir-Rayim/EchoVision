@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data (keep out of git)
+Photos/
+outputs/
+datasets/
+
+# Ultralytics runs
+runs/
+
+# Labelme artifacts (optional; keep if you want to version them)
+# *.json

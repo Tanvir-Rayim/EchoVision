@@ -1,0 +1,15 @@
+# Core
+ultralytics>=8.2
+opencv-python>=4.8
+pillow>=10.0
+
+# Annotation tool
+labelme>=5.4
+
+# OCR (Bangla + English)
+# PaddleOCR pulls in paddlepaddle; on Windows you may need to install the correct wheel.
+# See: https://github.com/PaddlePaddle/PaddleOCR
+paddleocr>=2.7
+
+# Optional alternatives
+# easyocr>=1.7

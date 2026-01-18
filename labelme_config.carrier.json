@@ -1,0 +1,18 @@
+{
+  "auto_save": true,
+  "display_label_popup": true,
+  "keep_prev": true,
+  "keep_prev_mode": true,
+  "keep_prev_scale": true,
+  "keep_prev_brightness": true,
+  "keep_prev_contrast": true,
+  "logger_level": "info",
+  "shape_color": "auto",
+  "shift_auto_shape_color": 0,
+  "sort_labels": true,
+  "validate_label": "exact",
+  "labels": [
+    "signboard",
+    "product_label"
+  ]
+}
